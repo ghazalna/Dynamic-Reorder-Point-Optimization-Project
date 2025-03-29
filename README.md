@@ -111,4 +111,12 @@ ML models adapt continuously and can scale across thousands of SKUs and stores �
   - `demand_forecasting.csv`  
   - `inventory_monitoring.csv`
 
+## 📚 Data Source
+
+The dataset used in this project was obtained from Kaggle:
+
+**Inventory Optimization for Retail​​**  
+Available at: [(https://www.kaggle.com/datasets/suvroo/inventory-optimization-for-retail?resource=download)]  
+Licensed under: [MIT]
+
 
