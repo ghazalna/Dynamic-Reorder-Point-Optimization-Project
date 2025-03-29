@@ -79,7 +79,7 @@ ML models adapt continuously and can scale across thousands of SKUs and stores �
 | Random Forest       | 0.87+     | ✅ Low | Best-performing model |
 | Gradient Boosting   | 0.84+     | ✅ Low | Smooth predictions |
 | Linear Regression   | ~0.6–0.7  | ⚠️ Higher RMSE | Too simplistic |
-| Traditional Formula | 1.0 (trivial) | 0.0 | Same formula used as target |
+
 
 ### 📦 Sales Quantity Prediction
 
